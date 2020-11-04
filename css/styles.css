@@ -1,0 +1,128 @@
+/*****ELEMENT TAGS****/
+
+body {
+  background-color: #495464;
+  margin: 0;
+}
+
+
+/*****CLASS TAGS****/
+
+.about-container {
+  background-color: #f4f4f2;
+  border-color: #bbbfca;
+  border-style: solid;
+  border-width: thick;
+  height: 608px;
+  margin: 10px;
+}
+
+.about-container2 {
+  background-color: #f4f4f2;
+  height: 608px;
+  left: 360px;
+  opacity: .2;
+  position: absolute;
+  width: 608px;
+}
+
+.about-container3 {
+  color: #495464;
+  font-family: fantasy;
+  margin-top: 175px;
+  position: absolute;
+  text-align: center;
+  padding: 10px;
+  margin-right: 20px;
+}
+
+.background-container {
+  background-color: #f4f4f2;
+  border-color: #bbbfca;
+  border-style: solid;
+  border-width: thick;
+  height: 570px;
+  margin: 10px;
+  margin-left: 890px;
+  width: 437px;
+}
+
+.background-container2 {
+  position: relative;
+  text-align: right;
+}
+
+.background-container3 {
+  background-color: #f4f4f2;
+  bottom: 0;
+  border-color: #bbbfca;
+  border-style: solid;
+  border-width: thick;
+  color: #495464;
+  font-family: fantasy;
+  height: 570px;
+  left: 0;
+  margin: 10px;
+  position: absolute;
+  right: 470px;
+  text-align: center;
+  top: 1480px;
+  width: 860px;
+}
+
+.body-container {
+  background-color: #f4f4f2;
+  border-color: #bbbfca;
+  border-style: solid;
+  border-width: thick;
+  font-family: fantasy;
+  height: 612px;
+  margin: 10px;
+  margin-left: 360px;
+  text-align: center;
+}
+
+.head-container {
+  background-color: #f4f4f2;
+  border-color: #bbbfca;
+  border-style: solid;
+  border-width: thick;
+  height: 200px;
+  margin: 10px;
+  top: 0;
+}
+
+.head-container2 {
+  font-family: fantasy;
+  height: 100px;
+  left: 50px;
+  position: absolute;
+  top: 50px;
+  width: 250px;
+}
+
+.head-container3 {
+  display: inline-block;
+  font-family: fantasy;
+  font-size: large;
+  position: absolute;
+  right: 50px;
+  top: 175px;
+}
+
+.goku-img {
+  border-color: #bbbfca;
+  border-style: solid;
+  border-width: thick;
+  left: 10px;
+  position: absolute;
+  top: 230px;
+}
+
+.quotes {
+  color: #495464;
+  font-size: xx-large;
+  position: relative;
+  text-shadow: 1px 1px red;
+  top: 125px;
+}
